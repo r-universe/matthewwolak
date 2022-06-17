@@ -1,0 +1,14 @@
+[
+  {
+    "package": "gremlin",
+    "oncran": true
+  },
+  {
+    "package": "ICC",
+    "oncran": true
+  },
+  {
+    "package": "nadiv",
+    "oncran": true
+  }
+]

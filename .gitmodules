@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gremlin"]
+	path = gremlin
+	url = https://github.com/matthewwolak/gremlin
+	shallow = true
+	registered = true
+[submodule "ICC"]
+	path = ICC
+	url = https://github.com/matthewwolak/icc
+	shallow = true
+	registered = true
+[submodule "nadiv"]
+	path = nadiv
+	url = https://github.com/matthewwolak/nadiv
+	shallow = true
+	registered = true
