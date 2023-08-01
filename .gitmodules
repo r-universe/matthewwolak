@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gremlin"]
-	path = gremlin
-	url = https://github.com/matthewwolak/gremlin
 [submodule "ICC"]
 	path = ICC
 	url = https://github.com/matthewwolak/icc
+[submodule "gremlin"]
+	path = gremlin
+	url = https://github.com/matthewwolak/gremlin
 [submodule "nadiv"]
 	path = nadiv
 	url = https://github.com/matthewwolak/nadiv
