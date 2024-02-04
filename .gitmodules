@@ -8,6 +8,3 @@
 [submodule "gremlin"]
 	path = gremlin
 	url = https://github.com/matthewwolak/gremlin
-[submodule "nadiv"]
-	path = nadiv
-	url = https://github.com/matthewwolak/nadiv
